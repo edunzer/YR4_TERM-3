@@ -1,0 +1,3 @@
+## WEEK 3 DISCUSSION | CREATIVE DECISION MAKING
+
+I think a common problem that companies are running into when exploring this idea is that there are two groups of people in there work force. The ones that would be happy to join a call of 5 or more people just to hangout and then the ones that don't want to be forced into "group bonding". To solve this the businesses HR department can setup slack, discord, etc. groups for different topics and then send out questionnaires to all there employees with those topics on it. Then when everyone has submitted there questionnaire groups can be established on those answers. Then emails will be sent out with links to those groups on slack, discord, etc. and people can naturally filter in and setup there own virtual meetings. 
