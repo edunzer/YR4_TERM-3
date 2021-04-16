@@ -18,11 +18,28 @@ Organizing requirements into high level business processes (NAS to APC focus)
 
   Brief introduction to the concept of business processes
 
-    Business processes are a collection of linked tasks that together will create a service or product that the business will then give to the customer. These are normally small activities that works will do on a daily basis to fulfill the companies working needs. Now the level of these processes can differ based on the employee level but they are always important to completing day to day tasks for an end goal of the business. For example APC has many business processes that revolve around paper work, and each of those instances were an employee files, or completes paperwork they have being using a business process. 
+    Business processes are a collection of linked tasks that together will create a service or product that the business will then give to the customer. These are normally small activities that works will do on a daily basis to fulfill the companies working needs. Now the level of these processes can differ based on the employee level but they are always important to completing day to day tasks for an end goal of the business. For example APC has many business processes that revolve around paper work, and each of those instances were an employee files, or completes paperwork they have being using a business process.
 
   Narrative shows that you have identified the major high-level business processes needed for the APC TO-BE system
 
+    The following high-level business processes will be what the APC system will focus on and strive to accomplish. Overall these 6 processes are combinations of smaller low level processes that could be fixed/solved by creating a single process. For example a single low level problem that APC was having was lack of information when presenting manuscripts to there Collective Members. In order to solve this the Digital Manuscript system was created where all important documents from other processes will be combined into a single portfolio. This high level process will actually be supported by the other high level processes such as marketing portfolio which will organize marketing and distribution information which is then sent in the manuscript packets. 
+
   Have selected between 5 & 9 high-level business processes (aka Use Cases) that will satisfy all actor requirements
+
+    - Digital Finance tracking
+    - Digital Inventory tracking
+    - Digital Marketing portfolio's
+    - Digital Contract system
+    - Digital Manuscript system
+    - Digital Publishing system
+
+    - Digital Ledger cards with fields for inputted documents (Account Clerk)
+    - Digital Goods service with electronic inbound and outbound tracking (Goods & Dispatch)
+    - Digital list for all relevant marketing material (Marketing, Sales & Distribution)
+    - Digital publishing schedule with automatic schedule updates based on submitted material (Publishing Program Manager)
+    - Digital manuscript packet with author information and value summary (Collective Member)
+    - Digital contract system (Contract & Office manager) (Receptionist/Secretary)
+    - Digital accounting system and tracker (Contract & Office manager) (Receptionist/Secretary)
 
   Section Summary
 
