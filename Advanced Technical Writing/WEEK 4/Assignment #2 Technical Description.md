@@ -2,7 +2,11 @@
 
 Introduction
   ❏ Brief indication of the nature and scope of the description.
+    - In this description I will outline the entire process of APC's workflow in a short list manor, and then in parts of list I think need to be more indepthly explaned I will do so. This mostly takes place for processes are that are not already in place for APC and will be part of the new system that Iam planning.
+
   ❏ Brief statement of why this object, mechanism, or process is significant to the reader.
+    - Thie technical description will be a great overall outline for the APC team to review and look through when training to use there new sysstem that is being developed. Then when furture explanation is needed more indepth documents can be reviewed.
+    
   ❏ Overview of the object, mechanism, or process – may include any of the following, as applicable:
 
     Historical background information
