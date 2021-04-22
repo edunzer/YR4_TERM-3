@@ -1,12 +1,15 @@
 ## ASSIGNMENT #2 TECHNICAL DESCRIPTION
 
 Introduction
+
+    - In order to streamline their new business processes, APC needs to shift from a paper-based system to digital in order to keep accurate and better track of their projects. This will help with efficiency, but also information loss which they detailed as a huge problem in their current system. Since all projects will be digital, they can be further organized and categorized by genre and trend to make decisions for the collective easier.
+    
   ❏ Brief indication of the nature and scope of the description.
-    - In this description I will outline the entire process of APC's workflow in a short list manor, and then in parts of list I think need to be more indepthly explaned I will do so. This mostly takes place for processes are that are not already in place for APC and will be part of the new system that Iam planning.
+    - In this description I will outline the entire process of APC's workflow in a short list manor, and then in parts of list I think need to be more in-depthly explained I will do so. This mostly takes place for processes are that are not already in place for APC and will be part of the new system that I am planning.
 
   ❏ Brief statement of why this object, mechanism, or process is significant to the reader.
-    - Thie technical description will be a great overall outline for the APC team to review and look through when training to use there new sysstem that is being developed. Then when furture explanation is needed more indepth documents can be reviewed.
-    
+    - This technical description will be a great overall outline for the APC team to review and look through when training to use there new system that is being developed. Then when future explanation is needed more in depth documents can be reviewed.
+
   ❏ Overview of the object, mechanism, or process – may include any of the following, as applicable:
 
     Historical background information
