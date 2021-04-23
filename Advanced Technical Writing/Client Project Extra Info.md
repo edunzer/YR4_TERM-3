@@ -11,38 +11,29 @@ Given APC’s current position in the market as a publishing house with very lit
 
 PROCESS OUTLINE: (APC workflow process)
 
-  Email is sent to APC's specific email for manuscript with manuscript attatched to it.
-
-  That manuscript attatchment is then put into a folder entitled with the manuscript title and the authors credentials by *recpetionist/secretary*. `This is tracked on publishing system.`
-
-  An alert is then sent to *marketing, sales, distribution*, *account clerk* and *publishing program manager* that a new manuscript has arrived.
-
-  A new publishing scehdule is started for the *publishing program manager* in the publishing system with the manuscripts information imbedded.
-
-  Then *account clerk* will create a ledger card in the manuscript file for future account information. `This is tracked on publishing system.`
-
-  Then the manuscript is sent to *collective members* for first review. `This is tracked on publishing system.`
-
-  After interest in the manuscript is confirmed *marketing, sales, distribution* will review manuscript, put marketing information(plan) in folder with manuscript. `This is tracked on publishing system.`
-
-  Then *recpetionist/secretary* gets notice of confirmed interest and emails author about. `This is tracked on publishing system.`
-
-  *collective members* come back with reviewed copy of manuscript which is put in folder marked as reviewed/changed. `This is tracked on publishing system.`
-
-  *contract & office manager* finds appropriate contract and fills out and changes details to reflect publishing offer. `This is tracked on publishing system.`
-
-  *recpetionist/secretary* sends new revised copy of manuscript and contract offer to author pending approval. `This is tracked on publishing system.`
-
-  If author agrees then *recpetionist/secretary* upadates publishing sechedule with a "confirmed interest selection". An alert is then sent to *marketing, sales, distribution*,*publishing program manager*, *ISBN person*, and *contract & office manager*. `This is tracked on publishing system.`
-
-    If the author does not agree then issue is discussed by *contract & office manager* or *recpetionist/secretary* and resolved pending management approval. and then follows steps above ^ `This is tracked on publishing system.`
-
-  After this *publishing program manager* will need to construct publication cost estimite breakdown and create art materials and illustrations if needed. `This is tracked on publishing system.`
-
-  Then *ISBN person* creates/files ISBN for the manuscript and stores information in manuscript folder, along with check the box on publishing scehdule for such a task. An alert is sent to *marketing, sales, distribution* for reviewing purposes. `This is tracked on publishing system.`
-
-  Then *marketing, sales, distribution* will create a information packet based on *publishing program manager* breakdown. The packet will contain the printers and distribution businesses that will be used.`This is tracked on publishing system.`
-
-  Then the entire manuscript packet that was prepared by *marketing, sales, distribution* wil be sent to the *collective members* pending there approval. `This is tracked on publishing system.`
-
-  If approved then an alert is then sent to *publishing program manager*, *contract & office manager*, *marketing, sales, distribution*, and *recpetionist/secretary* who will alert the author that APC is going to be publising there book. `This is tracked on publishing system.`
+1. Email is sent to APC's specific email account for manuscripts with manuscript attached to it and authors personal information.
+2. That manuscript attachment is then put into the manuscript system which will have a folder entitled with the manuscript title and the authors credentials by (Receptionist/Secretary).  
+3. An alert is then sent to (Marketing, Sales & Distribution), (Account Clerk), and (Publishing Program Manager) that a new manuscript has arrived.
+4. A new publishing schedule is started for the (Publishing Program Manager) in the publishing system with the manuscript information imbedded.
+5. Then (Account Clerk) will create a ledger card in the Finance system which will be tagged to the manuscript folder for future account information.
+6. Then the manuscript is sent to (Collective Members) for first review. This is tracked on publishing system.
+7. After interest in the manuscript is confirmed (Marketing, Sales & Distribution) will review manuscript, put marketing information plan in folder with manuscript. This is tracked on publishing system.
+8. Then (Receptionist/Secretary) gets notice of confirmed interest and emails author about. This is tracked on publishing system.
+9. (Collective Members) come back with reviewed copy of manuscript which is put in folder marked as reviewed/changed. This is tracked on publishing system.
+10. (Contract & Office Manager) finds appropriate contract and fills out and changes details to reflect publishing offer. This is tracked on publishing system.
+11. (Receptionist/Secretary) sends new revised copy of manuscript and contract offer to author pending approval. This is tracked on publishing system.
+12. If author agrees then (Receptionist/Secretary) updates publishing schedule with a "confirmed interest selection". An alert is then sent to (Marketing, Sales & Distribution), (Publishing Program Manager), and (Contract & Office Manager). This is tracked on publishing system.
+12a. If the author does not agree then issue is discussed by (Contract & Office Manager) or (Receptionist/Secretary) and resolved pending management approval. and then follows steps above ^ This is tracked on publishing system.
+13. After this (Publishing Program Manager) will need to construct publication cost estimate breakdown and create art materials and illustrations if needed. This is tracked on publishing system.
+14. Then (Marketing, Sales & Distribution) creates/files ISBN for the manuscript and stores information in manuscript folder, along with check the box on publishing schedule for such a task. An alert is sent to (Marketing, Sales & Distribution) for reviewing purposes. This is tracked on publishing system.
+15. Then (Marketing, Sales & Distribution) will create a information packet based on (Publishing Program Manager) breakdown. The packet will contain the printers and distribution businesses that will be used. This is tracked on publishing system.
+16. Then the entire manuscript packet that was prepared by (Marketing, Sales & Distribution) will be sent to the (Collective Members) pending there approval. This is tracked on publishing system.
+17. If approved then an alert is then sent to (Publishing Program Manager), (Contract & Office Manager), (Marketing, Sales & Distribution), and (Receptionist/Secretary) who will alert the author that APC is going to be publishing there book. This is tracked on publishing system.
+18. Then depending on contract details possible author compensation will be a possibility which means (Account Clerk) will be notified that manuscript publishing is happening and to contact (Contract & Office Manager) for details. This is tracked on publishing system.
+19. After this (Publishing Program Manager) will finalize book construction and printing details with (Marketing, Sales & Distribution) and prepare to print copies. This is tracked on publishing system.
+20. (Account Clerk) will be notified of incoming expense for printing of new published manuscript, and (Goods & Dispatch Clerk) will be alerted and to expect pre-print copies to arrive for review. This is tracked on publishing system.
+21. When pre-print copies arrive (Goods & Dispatch Clerk) notes them in Inventory tracking system and then distributes to (Marketing, Sales & Distribution), (Publishing Program Manager) for review pending approval. This is tracked on publishing system.
+22. If approved then (Publishing Program Manager) contacts printing company to complete there set buy order that was outlined in the publishing outline earlier. This is tracked on publishing system.
+23. When official printed copies arrive (Goods & Dispatch Clerk) notes them in Inventory tracking system, which alerts (Marketing, Sales & Distribution). This is tracked on publishing system.
+24. (Marketing, Sales & Distribution) then contacts buyers of official copies and notifies (Goods & Dispatch Clerk) where to send through request to Inventory tracking system. These requests are also sent to (Account Clerk) who notes the buy order in Finance Tracking system.
+25. Publishing system timeline for this manuscript is closed. Alert sent to (Publishing Program Manager)
