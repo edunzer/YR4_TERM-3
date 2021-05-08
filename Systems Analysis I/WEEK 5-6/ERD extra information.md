@@ -7,6 +7,7 @@ Entities:
     Author - varchar
     ID - int
     Status - varchar
+    ISBN - varchar
     Link - varchar
 
   Authors
@@ -14,21 +15,38 @@ Entities:
     Last name - varchar
     Phone - int
     Email - varchar
+    Ledger link - varchar
 
   Ledger Cards
-    Type - varchar
     Name - varchar
+    Type - varchar
+    ID - int
     Value - int
-    Link - varchar
+    Spreadsheet link - varchar
+
+  Accounts
+    Name - varchar
+    Type - varchar
+    ID - int
+    Value - int
+    Spreadsheet link - varchar
 
   Inventory
     Title - varchar
     Amount - int
     Requests - int
+    Status - varchar
+
+  Orders
+    Title - varchar
+    ISBN - varchar
+    Amount - int
+    Info - varchar
+    Status - varchar
 
   Contracts
     Title - varchar
-    Link - varchar
+    Contract Link - varchar
 
   Illustrations/Artwork
     Title - varchar
@@ -47,3 +65,12 @@ Entities:
     Avg Price - int
     Num Previous Jobs - int
     Info - varchar
+
+  Employee's
+    First name - varchar
+    Last name - varchar
+    Email - varchar
+    Phone - int
+    ID - int
+    Type - varchar
+    Access level - int
