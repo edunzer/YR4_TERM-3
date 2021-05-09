@@ -1,14 +1,11 @@
 ## ERD ASSIGNMENT
 
 Introduction
-	In this assignment you will create an Entity Relationship Diagram that captures the information needed in the APC Case. As before, set up the context for the assignment.
-    •	Explain the purpose of this assignment, and how it relates to what we are doing in class. The assumption here is that you have taken database classes and are familiar with the structure of ERDs. If that is not true, then you should contact me for some one-on-one time to go over the elements of an ERD.
-    •	Setup up the context of the paper for the APC reader. Why do they care about this?
-    •	Provide a brief overview of each section below
 
-  The purpose of this assignment is to create a document for the APC employees to view and see how different data store entities work, relate, and function in there new system. This document will also work to outline the different types of data that will go into each one of the entities and how that data will be connected to other entities.
+  The purpose of this assignment is to create a document for the APC employees to view and see how different data store entities work, relate, and function in their new system. This document will also work to outline the different types of data that will go into each one of the entities and how that data will be connected to other entities. In the diagram, entities are represented by boxes with lines linking them to various attributes, which describe the entity’s qualities or characteristics. This entity relationship diagram gives a snapshot of how these entities relate to each other.
 
-  Throughout the document there will be detailed sections about what the different entities are, what attributes and data types they have, and how and why they connect the way they connect. All these sections are labeled for the reader and have been explained to make sure the reader knows what is happening.
+  Throughout this document there will be detailed sections about what the different entities are, what attributes and data types they have, and how and why they connect the way they connect. All these sections are labeled for the reader and have been explained to make sure the reader knows what is happening.
+
 
 Topic Analysis
 
@@ -41,12 +38,11 @@ Part 1: Identify the entities for whom you need to store data
 
 
 Part 2: Identify the attributes of interest for each entity
-  •	Provide a setup/introduction to this section to help the reader understand the importance of getting the right attributes identified through the requirements
-  •	Given that you have identified the entities (aka as tables in the database context), identify the attributes of those attributes that you need to store to service the use cases you have identified. Resist the urge to add anything you think might be useful to them in the future. For now just add those attributes that are required to service the requirements.  This is an iterative process in the real world, so you may discover additional attributes later that you missed on the first pass. Just explain why you choose these attributes and relate them to the requirements (RID) they are designed to service. These attributes, plus a primary key, become the attributes you use to populate each table within the ERD.
-  •	Create a table to show the data type, length and any constraints for each of the attributes
-  •	Provide a summary for the APC reader to make sure they understand the relationship between the attributes and the functional requirements
 
-  In this section APC's attributes for each given entity will be explained and outlined. These attributes will be the variables and content that will fill the entity. Each variable will have a different type of value. In this given case there are only two use values int, which stands for integer, and varchar, which stands for character data. There are also two fields that will be used Throughout the entities, links and info. Links will be a simple link to a document that cant fit in a database field. Info is a common field that will just be there for extra information incase there is important information for that entity that cant be explained by the main fields. These different variables will be assigned to the many entities in the following information:
+  In this section APC's attributes for each given entity will be explained and outlined. These attributes will be the variables and content that will fill the entity. Each variable will have a different type of value. In this given case there are only two use values int, which stands for integer, and varchar, which stands for character data. Primary keys are the identifier for the main field that will be used to identify a specific entity. The attribute that is labeled with primary key is the attribute that will be used to find/search and identify individual records and information that is in the data stores.
+
+  There are also two fields that will be used throughout the entities, links, and info. Links will be a simple link to a document that cannot fit in a database field. Info is a common field that will just be there for extra information in case there is important information for that entity that cannot be explained by the main fields. These different variables will be assigned to the many entities in the following information:
+
 
   Manuscripts
     Title - varchar
@@ -149,9 +145,7 @@ Part 3: Establish the relationships between the entities
 
 
 Conclusion
-  •	Provide a clear summary of what you learned in the exercise.
-  •	Demonstrate your understanding of the purpose and uses of an Entity Relationship Diagram and identify when you would use this tool. Identify how this tool would be used with the stakeholders of the project
 
-  An entity relationship diagram gives a snapshot of how these entities relate to each other. In the diagram, entities are represented by boxes with lines linking them to various attributes, which describe the entity’s qualities or characteristics.
+  In this assignment there are several key elements that have been used for my learning benefit. First we have the demonstration of the entities that are in the APC scenario. By creating and outlining these entities it becomes more clear where the data will be stored and how they related to the APC scenario. Next there are the attributes that fit into each of those entities. These are extremely important and all you to dive even deeper into what is happening in the data stores and how each entity will process certain data. Lastly there are the relationships between the entities which really helped define how all the different entities where connected and how the overall APC system would and wouldn't work.
 
-If you use references, put them on a separate reference page with APA formatted references
+  Overall I do think this was a good assignment to show how to create and represent relationships between entities in a project. I do think there are some large holes in thinking that would have to be corrected and defined but overall there was some great practice on how to think through a problem and plan out the ways that data will be stored and connected.
